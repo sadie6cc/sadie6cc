@@ -1,4 +1,4 @@
-- 👋 Hi, I’m sadie6cc 
+ - 👋 Hi, I’m sadie6cc 
 - 👀 I’m interested in learning github
 - 🌱 I’m currently learning nothing yet but im trying
 - 💞️ I’m looking to collaborate on learning what this sentence means
